@@ -1,6 +1,6 @@
 {
     "canisters": {
-      "icp_simple_site": {
+      "rj_on_chain": {
         "frontend": {
           "entrypoint": "src/index.html"
         },
